@@ -87,22 +87,9 @@ Each point labeled with its coordinates
 
 
 
-# 📊 Data Analysis Report
+ Data Analysis Report
 
-## 📍 Data Points
 
-| Point | X Value | Y Value |
-|:------|--------:|--------:|
-| 1 | -9.00 | 7.90 |
-| 2 | -7.06 | 6.65 |
-| 3 | -5.00 | 5.00 |
-| 4 | -3.03 | 2.70 |
-| 5 | -1.03 | 1.14 |
-| 6 | 1.00 | -0.62 |
-| 7 | 3.00 | -3.18 |
-| 8 | 5.03 | -4.58 |
-| 9 | 7.97 | -6.78 |
-| 10 | 9.26 | -8.06 |
 
 Statistical Summary
 
