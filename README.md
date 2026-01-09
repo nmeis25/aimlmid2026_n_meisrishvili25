@@ -66,7 +66,7 @@ Regression equation: y = -0.8966x + 0.1192
 
 
 
-
+![image alt](https://github.com/nmeis25/aimlmid2026_n_meisrishvili25/blob/c4b506975d143a4cace58ea5a094af36990fd14a/correlation_plot_final.png)
 
 
 
