@@ -1,0 +1,3 @@
+email_type,words,links,capital_words,spam_word_count,prediction,spam_probability
+manual_spam,56,3,22,10,SPAM,100.0
+manual_legit,90,0,4,1,LEGITIMATE,6.795087313671771e-33
